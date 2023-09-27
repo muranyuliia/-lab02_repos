@@ -1,0 +1,2 @@
+﻿  lab21.cpp
+D:\Нова папка\lab21\lab21.cpp(22): error C4700: uninitialized local variable 'z2' used

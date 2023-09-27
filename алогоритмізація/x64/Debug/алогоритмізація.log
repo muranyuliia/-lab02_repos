@@ -1,0 +1,3 @@
+﻿  алогоритмізація.cpp
+D:\Нова папка\алогоритмізація\алогоритмізація.cpp(15,9): error C2146: syntax error: missing ';' before identifier 'rp1'
+D:\Нова папка\алогоритмізація\алогоритмізація.cpp(16,2): error C2143: syntax error: missing ';' before '}'
